@@ -1,0 +1,34 @@
+MEDICAL REPORT
+
+Patient: Test Patient
+Date: 2024-01-15
+
+LABORATORY RESULTS:
+
+Complete Blood Count (CBC):
+- Hemoglobin: 12.5 g/dl
+- P.C.V: 38%
+- R.B.C: 4.8 million/cu mm
+- W.B.C: 7500 cells/cu mm
+- Platelet Count: 2.8 lacs/cu mm
+
+Differential Count:
+- Polymorphs: 65%
+- Lymphocytes: 30%
+- Eosinophils: 3%
+- Monocytes: 2%
+
+Blood Chemistry:
+- Blood Sugar: 95 mg/dl
+- Serum Creatinine: 0.9 mg/dl
+- Blood Urea: 15 mg/dl
+- Serum Sodium: 140 mmol/L
+- Serum Potassium: 4.2 mmol/L
+
+Liver Function Tests:
+- Total Bilirubin: 0.8 mg/dl
+- SGOT: 25 U/L
+- SGPT: 30 U/L
+- Albumin: 4.2 g/dl
+
+All values are within normal range.
