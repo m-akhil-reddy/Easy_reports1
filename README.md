@@ -144,7 +144,7 @@ The AI model processes medical reports through several layers:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+NO 
 
 ## Contact
 
